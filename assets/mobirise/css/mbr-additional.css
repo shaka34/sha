@@ -1308,49 +1308,6 @@ section.lazy-placeholder:after {
   text-align: left;
   color: #ff7f9f;
 }
-.cid-rEuTw9bVW5 {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/mbr-1920x1276.jpg");
-}
-.cid-rEuTw9bVW5 .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rEuTw9bVW5 .media-row {
-  display: -webkit-flex;
-  justify-content: center;
-  -webkit-justify-content: center;
-}
-.cid-rEuTw9bVW5 .team-item {
-  transition: all .2s;
-  margin-bottom: 2rem;
-}
-.cid-rEuTw9bVW5 .team-item .item-image img {
-  width: 100%;
-}
-.cid-rEuTw9bVW5 .team-item .item-name p {
-  margin-bottom: 0;
-}
-.cid-rEuTw9bVW5 .team-item .item-role p {
-  margin-bottom: 0;
-}
-.cid-rEuTw9bVW5 .team-item .item-social {
-  display: -webkit-flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  -webkit-flex-wrap: wrap;
-  -webkit-justify-content: center;
-}
-.cid-rEuTw9bVW5 .team-item .item-social .socicon {
-  color: #232323;
-  font-size: 17px;
-}
-.cid-rEuTw9bVW5 .team-item .item-caption {
-  background: #232323;
-}
-.cid-rEuTw9bVW5 .item-name {
-  color: #ffffff;
-}
 .cid-rEvdV73rWQ {
   padding-top: 90px;
   padding-bottom: 90px;
